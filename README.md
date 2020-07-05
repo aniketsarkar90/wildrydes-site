@@ -1,2 +1,4 @@
 # wildrydes-site
-This is a test repo 
+A Sample Serverless Web Application
+
+The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, and AWS Amplify Console.
